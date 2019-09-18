@@ -1,0 +1,2 @@
+# MyMongoDB
+MyMongoDB OpsWorks Stack
