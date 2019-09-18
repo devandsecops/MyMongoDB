@@ -1,1 +1,3 @@
-cookbook 'sc-mongodb', '~> 1.2.0'
+site :opscode
+
+cookbook 'mongodb'
